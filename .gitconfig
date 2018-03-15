@@ -1,0 +1,13 @@
+# This is Git's per-user configuration file.
+[user]
+    # Please adapt and uncomment the following lines:
+    name = Ogreman
+	email = theogreman@gmail.com
+[push]
+    default = simple
+[alias]
+    co = checkout
+    br = branch
+    ci = commit
+    st = status
+    diffs = diff --staged
